@@ -1,2 +1,2 @@
 # ECE-311
-Labs 0 through the final (MATLAB)
+Code written in MATLAB, rewritten using .numpy
